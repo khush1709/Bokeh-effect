@@ -2,7 +2,8 @@
 
 This repository contains a simple web application that applies a Bokeh effect to an uploaded image. The application is built using Flask, a Python web framework, and utilizes the Pillow library (PIL) for image processing.
 
-![Screenshot (11)](https://github.com/khush1709/Bokeh-effect/assets/83908626/9f531f8d-5a16-42d0-9910-49bfaf5b68b8)
+![Bokeh](https://github.com/khush1709/Bokeh-effect/assets/83908626/eb72f515-ccc3-426c-ba77-6ab06a549eb8)
+
 
 
 ## Files and Directory Structure
