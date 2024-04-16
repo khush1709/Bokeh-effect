@@ -33,7 +33,7 @@ This repository contains a simple web application that applies a Bokeh effect to
 1. Navigate to the project directory.
 
     ```bash
-    cd <project-directory>
+    cd Bokeh-effect
     ```
 
 2. Run the Flask application.
