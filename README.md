@@ -19,7 +19,7 @@ This repository contains a simple web application that applies a Bokeh effect to
 1. Clone the repository:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/khush1709/Bokeh-effect.git
     ```
 
 2. Install the required dependencies. You can use the following command in the terminal:
